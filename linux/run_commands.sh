@@ -4,7 +4,7 @@
 TAR_URL="https://story-network-node.s3.amazonaws.com/release/geth_iliad_20240720_214600_linux_amd64.tar.gz"
 
 # Extracted folder name (assumes the tar file creates a folder with the same name)
-EXTRACTED_FOLDER="geth_iliad_20240720_214600_darwin_amd64"
+EXTRACTED_FOLDER="geth_iliad_20240720_214600_linux_amd64"
 
 # Function to download and extract the binaries
 download_and_extract() {
