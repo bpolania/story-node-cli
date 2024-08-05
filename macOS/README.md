@@ -1,4 +1,4 @@
-## Welcome to Story Nodes CLI (MacOS Only)
+## Welcome to Story Nodes CLI For macOS
 
 This CLI will let you 
 
